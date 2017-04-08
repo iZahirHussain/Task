@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<employees>
+  <employee>
+    <name>Rahim</name>
+    <age>40</age>
+    <designation>Senior Developer</designation>
+  </employee>
+  <employee>
+  </employee>
+</employees>
